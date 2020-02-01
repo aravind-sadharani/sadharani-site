@@ -1,0 +1,130 @@
+/*
+Sadharani Website - Developed by Sadharani - www.sadharani.com
+Copyright 2020 Sadharani Music Works
+*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Martel', serif;
+  color: #544a4a;
+  line-height: 1.5;
+  padding: 3vmin;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #afb6b6;
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  color: #544a4a;
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+h2, h3 {
+  font-family: 'Bree Serif', serif;
+  font-weight: 700;
+  color: #544a4a;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+header {
+  text-align: center;
+  background-color: #174444;
+  max-width: 800px;
+  border-radius: 1vmin;
+}
+
+header h1 {
+  color: #ffffff;
+}
+
+header img {
+  width: 80vmin;
+}
+
+#intro {
+  background-color: #ffffff;
+  border-radius: 1vmin;
+  padding: 3vmin;
+}
+
+#projects {
+  background-color: #ffffff;
+  border-radius: 1vmin;
+  padding: 3vmin;
+}
+
+#projects ul {
+  text-align: center;
+}
+
+#projects li {
+  display: inline-block;
+  padding: 2vmin 3vmin;
+}
+
+#projects a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#contact {
+  background-color: #ffffff;
+  border-radius: 1vmin;
+  padding: 3vmin;
+}
+
+#contact a {
+  text-decoration: none;
+  color: inherit;
+}
+
+footer {
+  background-color: #544a4a;
+  color: #afb6b6;
+  max-width: 800px;
+  border-radius: 1vmin;
+  padding: 3vmin;
+}
+
+footer a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.LinkSpan {
+  color: #ab6767;
+  font-weight: 700;
+}
+
+.LinkAction {
+  background-color: #ab6767;
+  font-weight: 700;
+}
+
+.ChandraveenaAction {
+  background-color: #542938;
+  font-weight: 700;
+}
+
+.SursringarAction {
+  background-color: #5c3129;
+  font-weight: 700;
+}
+
+.action {
+  border-radius: 1vmin;
+  color: #ffffff;
+  font-size: 1.1em;
+  padding: 1vmin 4vmin;
+  box-shadow: 0 0 0.5vmin 0 #4a413f;
+}
