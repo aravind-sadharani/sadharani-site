@@ -48,7 +48,18 @@ header h1 {
 }
 
 header img {
+  max-width: 800px;
   width: 80vmin;
+}
+
+header h1 img {
+  margin: 0;
+  padding: 0 0.04em;
+  display: inline-block;
+  height: 0.9em;
+  width: 0.45em;
+  position: relative;
+  top: 0.08em;
 }
 
 #intro {
@@ -69,7 +80,7 @@ header img {
 
 #projects li {
   display: inline-block;
-  padding: 2vmin 3vmin;
+  padding: 2vmin 3vmin 3vmin;
 }
 
 #projects a {
@@ -125,6 +136,6 @@ footer a {
   border-radius: 1vmin;
   color: #ffffff;
   font-size: 1.1em;
-  padding: 1vmin 4vmin;
+  padding: 0.4em 1.2em;
   box-shadow: 0 0 0.5vmin 0 #4a413f;
 }
