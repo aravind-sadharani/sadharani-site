@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://festive-panini-3e23bc.netlify.com/* http://www.sadharani.com/:splat 301!
