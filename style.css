@@ -81,6 +81,7 @@ header h1 img {
 #projects li {
   display: inline-block;
   padding: 2vmin 3vmin 3vmin;
+  margin: 0 0 10px;
 }
 
 #projects a {
