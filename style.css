@@ -81,6 +81,7 @@ header h1 img {
 #projects li {
   display: inline-block;
   padding: 2vmin 3vmin 3vmin;
+  margin: 0 0 15px;
 }
 
 #projects a {
@@ -137,6 +138,12 @@ footer a {
 .SursringarAction {
   color: #c1cad9;
   background-color: #5c3129;
+  font-weight: 700;
+}
+
+.PuretonesAction {
+  color: #F76F8E;
+  background-color: #333366;
   font-weight: 700;
 }
 
