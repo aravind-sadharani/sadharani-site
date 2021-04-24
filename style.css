@@ -147,6 +147,12 @@ footer a {
   font-weight: 700;
 }
 
+.RagatronicsAction {
+  color: #ffead0;
+  background-color: #333366;
+  font-weight: 700;
+}
+
 .action {
   border-radius: 1vmin;
   font-size: 1.1em;
