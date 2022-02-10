@@ -100,6 +100,10 @@ header h1 img {
   color: inherit;
 }
 
+#contact span {
+  display: inline-block;
+}
+
 #people {
   background-color: #ffffff;
   border-radius: 1vmin;
@@ -125,7 +129,8 @@ footer a {
 }
 
 .LinkAction {
-  background-color: #ab6767;
+  background-color: #174444;
+  color: #ffffff;
   font-weight: 700;
 }
 
